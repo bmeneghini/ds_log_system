@@ -4,9 +4,9 @@
 You can use and modify the source code as you pleased.
 
 # Compile
-gcc server-side.c -o server
-gcc client-side.c -o client
+* gcc server-side.c -o server
+* gcc client-side.c -o client
 
 # Running
-./server
-./client -i 127.0.0.1 -f logs.txt -e expression
+* ./server
+* ./client -i 127.0.0.1 -f logs.txt -e expression
